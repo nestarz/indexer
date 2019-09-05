@@ -1,0 +1,23 @@
+{
+	"name": "puppeteer-app",
+	"version": "0.1.0",
+	"license": "MIT",
+	"repository": "https://github.com/qiurenbo/puppeteer-boilerplate",
+	"author": {
+		"name": "qiurenbo",
+		"email": "qiurenbo@outlook.com",
+		"url": "https://www.imwhite.com.cn"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {},
+	"files": [
+		"index.js"
+	],
+	"dependencies": {
+		"moment": "^2.24.0",
+		"puppeteer": "^1.19.0",
+		"yargs": "^14.0.0"
+	}
+}
